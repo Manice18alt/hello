@@ -1,3 +1,3 @@
 interface name {
-  na:string;
+  name:string;
 }
